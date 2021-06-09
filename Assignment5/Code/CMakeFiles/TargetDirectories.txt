@@ -1,0 +1,3 @@
+/home/cs18/Desktop/Assignment5/Code/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/Assignment5/Code/CMakeFiles/RayTracing.dir
+/home/cs18/Desktop/Assignment5/Code/CMakeFiles/edit_cache.dir
